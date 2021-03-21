@@ -30,6 +30,18 @@ url: "https://napster-powergeek.github.io/" # the base hostname & protocol for y
 #twitter_username: jekyllrb
 github_username: napster-powergeek
 
+# fields that minima uses but are not defaulted.
+# author is the default for the posts, and is used in the footer.
+author: Udbhav Pangotra
+linkedin_username: udbhav-pangotra
+instagram_username: udbhavpangotra
+flickr_username: udbhavpangotra
+
+# New fields not defaulted by jekyll-new with the minima theme
+# Add a copyright, a copyright symbol and year will be added automatically
+# copyright Company Name, Inc.
+copyright: "Udbhav Pangotra "
+
 # Build settings
 # removed a minima theme and placed a normal theme.
 #theme: minima
