@@ -32,7 +32,7 @@ github_username: napster-powergeek
 
 # Build settings
 # removed a minima theme and placed a normal theme
-#theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 # Exclude from processing.
