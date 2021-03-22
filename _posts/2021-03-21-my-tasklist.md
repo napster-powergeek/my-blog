@@ -16,3 +16,5 @@ categories: jekyll update
 1. Work on the timeline page
 2. Work on adding multiple feeds, add an about page and a small page for tech blog
 3. See if you can add your resume also to this! 
+4. Add the FIFA Analysis!
+5. Add the timeline Page!
