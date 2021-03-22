@@ -12,3 +12,7 @@ categories: jekyll update
 2. Continue with the minima theme, it looks simple and compact.
 3. Start working on a clean logo for the website.
 
+#### 22 March
+1. Work on the timeline page
+2. Work on adding multiple feeds, add an about page and a small page for tech blog
+3. See if you can add your resume also to this! 
