@@ -5,11 +5,13 @@ permalink: /about/
 ---
 **Hello!!**
 
-**My name is Udbhav Pangotra and I'm a data scientist.:octocat: I'm from India,living in Pune and currently working at Vodafone Intelligent Solutions.You can find me on [Linkedin](https://www.linkedin.com/in/udbhav-pangotra/),[Github](https://github.com/napster-powergeek) or on [Instagram](https://www.instagram.com/udbhavpangotra/).**
+**My name is Udbhav Pangotra and I'm a data scientist. :bowtie: I'm from India,living in Pune and currently working at Vodafone Intelligent Solutions.**
 
-**On this page you can find some information about me and a few blog posts I wrote. Most of them are about topics that I'm most interested in, such as machine learning, data science, SQL, or about programming languages like Python. I like to read a lot books :books: and watch a lot of shows :tv:, so you might also find my opinions or review of some them here.**
-**I am an amateur photographer :camera:and videographer :movie_camera: who loves to travel and meet people :)**
-**I'm also posting my blog posts on Medium, so you can find them there as well.:ghost:**
+**You can find me on [Linkedin](https://www.linkedin.com/in/udbhav-pangotra/), [Github](https://github.com/napster-powergeek) or on [Instagram](https://www.instagram.com/udbhavpangotra/).**
+
+**On this page you can find some information about me and a few blog posts I wrote. Most of them are about topics that I'm most interested in, such as machine learning, data science, SQL, or about programming languages like Python. I like to read a lot books  :books: and watch a lot of shows :tv: , so you might also find my opinions or review of some them here.**
+**I am an amateur photographer :camera: and videographer :movie_camera: who loves to travel and meet people :)**
+**I'm also posting my blog posts on Medium, so you can find them there as well. :ghost:**
 
 
 
