@@ -22,7 +22,7 @@ Professional Summary :
 
 
 My professional journey is listed below : 
-- **2018-2021** [**Vodafone Intelligent Solutions _VOIS**] (https://www.linkedin.com/company/vois/mycompany/)
+- **2018-2021** [**Vodafone Intelligent Solutions _VOIS**](https://www.linkedin.com/company/vois/mycompany/)
   - **Jul'2020 - Mar'2021 Assistant Manager**   
     - Worked on an Inactivity Model, this was used to help the market in reducing the customer churn and increase the service usage! 
     - The soluiton included an ensemble model for propensity for customer to become inactive, a clustering to cluster the customers on the basis of their usage and revenue patters to help with the campaign design and a response model to help with the customer targeting. 
