@@ -22,7 +22,7 @@ Professional Summary :
 
 
 My professional journey is listed below : 
-- **2018-2021 [Vodafone Intelligent Solutions _VOIS] (https://www.linkedin.com/company/vois/mycompany/)**
+- **2018-2021** [**Vodafone Intelligent Solutions _VOIS**] (https://www.linkedin.com/company/vois/mycompany/)
   - **Jul'2020 - Mar'2021 Assistant Manager**   
     - Worked on an Inactivity Model, this was used to help the market in reducing the customer churn and increase the service usage! 
     - The soluiton included an ensemble model for propensity for customer to become inactive, a clustering to cluster the customers on the basis of their usage and revenue patters to help with the campaign design and a response model to help with the customer targeting. 
@@ -49,11 +49,11 @@ My professional journey is listed below :
     - [Significance Calculator](https://github.com/napster-powergeek/Significance-Testing)
     
 
-- **2017-2018 [Digitate, A TRDC company ](https://www.linkedin.com/company/igniobydigitate/)**
+- **2017-2018** [**Digitate, A TRDC company**](https://www.linkedin.com/company/igniobydigitate/)
   - **Machine Learning Intern (NLP)**
     - Worked on building a chatbot to serve the internal users and the external site visitors which would act as an FAQ bot which is smart enough to have a real conversation with the user. The chatbot was developed in Rasa initally but was later migrated to Google Dialogflow so as to scale better!  The chatbot presently serves 10k+ internal requests monthly for the team at Digitate.
 
-- **2017-2018 [NSIT, Delhi](https://www.linkedin.com/school/netaji-subhas-institute-of-technology/)**
+- **2017-2018** [**NSIT, Delhi**](https://www.linkedin.com/school/netaji-subhas-institute-of-technology/)
   - **Embedded Design – Texas Instruments**
     - Worked on PCB design
     - [Implemented SmartRangefinder on BeagleBone black.](https://github.com/napster-powergeek/Laser_RangeFinder)
